@@ -2,7 +2,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/diefgonzalezpac/Analyzing-Customer-Churn-in-Power-BI?style=plastic)
 
-<img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/max/1024/0*24R-rEQPj2HpXl1i.gif">
+<img align="right" alt="Coding" width="200" src="https://static.wixstatic.com/media/f8eb0c_a6ce680ecff943df817679a09a99adb9~mv2.gif">
 
 This Power Bi presentation examines Databel churn data.
 - Churn rate is a measure of the number of customers or employees who leave a company during a given period,for this reason it   is a critical metric to assessing performance for Databel Company (not a real telecommunications company)
